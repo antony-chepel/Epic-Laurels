@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639437019969",
+    "project_id": "epic-laurels",
+    "storage_bucket": "epic-laurels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639437019969:android:3b4b4f03e6d9419d851fc0",
+        "android_client_info": {
+          "package_name": "com.generamobile.headsoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639437019969-thadu23drb8qmvv8dkurutuc1tkbjak4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZPko7eAhNHbjWBtnHUQl3FAKB1oi5Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639437019969-thadu23drb8qmvv8dkurutuc1tkbjak4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

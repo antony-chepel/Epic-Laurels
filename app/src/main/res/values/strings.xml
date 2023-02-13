@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Epic Laurels</string>
+    <string name="image_chooser">Pick Your Image</string>
+    <string name="facebook_app_id">952275392847682</string>
+    <string name="fb_login_protocol_scheme">fb952275392847682</string>
+    <string name="facebook_client_token">e330d434b538843916c6f18cc18bc9e7</string>
+
+</resources>
